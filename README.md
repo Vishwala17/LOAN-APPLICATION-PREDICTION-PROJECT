@@ -1,4 +1,7 @@
 #Loan-Application-Prediction
-Conducted a comprehensive EDA to examine the factors influencing employee attrition, identify the underlying reasons for employees leaving and forecast the employees most likely to leave.
-Applied data cleaning, pre-processing and feature engineering techniques to prepare the dataset for machine learning modelling.
-Employed various methodologies such as Smoothing, Cross-validation & F1 score, and trained on machine learning model including Random Forest with an accuracy of 86%.
+◦ Performed an in-depth Exploratory Data Analysis on Loan data to understand customer behavior and found the most
+effective features across 13 features such as Credit History, Balance income, etc.
+◦ Applied and tested various techniques like the imputation of missing values, preprocessing of data, outlier detection,
+feature engineering, validation techniques, and dimensionality reduction for improving the accuracy of the model.
+◦ Implemented machine learning models like Logistic Regression, Decision Tree and Random Forest with an average
+accuracy of 75% for detecting loan defaulters and automating the loan eligibility process.
